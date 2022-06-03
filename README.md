@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsaravana001" alt="kumarsaravana001" /></a> </p>
 
-- 🔭 I’m currently working on **Digifai,Hopnobly**
 
 - 🌱 I’m currently learning **Flutter,Data Analytics**
 
