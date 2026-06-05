@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Saravanakumar</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+# Hi, I am Saravanakumar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsaravana001&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsaravana001" /> </p>
+I build local-first, privacy-minded products end to end — extension, backend, dashboard, and the polish in between. Concrete over buzzwords, shipping in public.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsaravana001" alt="kumarsaravana001" /></a> </p>
+### 🔭 Currently building
 
+- **[ArcLens](https://github.com/kumarsaravana001/ArcLens)** — a local-first browser productivity tracker for Arc on macOS. Tracks per-tab *active-vs-total* time, idle/active, and tab switches — 100% on your machine, no account, no cloud, never reads your keystrokes or page text.
+- **[My portfolio](https://kumarsaravana001.github.io)** — where the rest of the work lives.
 
-- 🌱 I’m currently learning **Flutter,Data Analytics**
+### 🛠️ Tech I work with
 
-- 📫 How to reach me **saravanakm46@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-- ⚡ Fun fact **Stock Market enthusiastic**
+### ✨ Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saravanakumarmurali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanakumarmurali" height="30" width="40" /></a>
-<a href="https://instagram.com/just_call_me_saravan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_call_me_saravan/" height="30" width="40" /></a>
+- **[ArcLens](https://github.com/kumarsaravana001/ArcLens)** — Local-first Arc productivity tracker. Per-tab active-vs-total time, productive/distracting categorization, no cloud. *Arc MV3 · FastAPI · SQLite · React · Recharts · rumps menu bar*
+- **Seenzone** — Environmental-crisis dashboard: public site, admin tooling, and automated data pipelines. *FastAPI · React · Postgres*
+- **Groundswell** — Community + ground-truth-news platform built for verifiable local reporting. *Next.js · TypeScript*
+- **PetroFlow** — Fuel-station management platform covering operations end to end. *Next.js · TypeScript*
+- **[EchoList](https://github.com/kumarsaravana001/EchoList)** — Voice-first task app for iOS — capture a task by just talking. *Swift · iOS*
+
+### 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kumarsaravana001&show_icons=true&hide_border=true&count_private=true" alt="Saravanakumar's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsaravana001&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsaravana001&hide_border=true" alt="GitHub streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsaravana001&show_icons=true&locale=en&layout=compact" alt="kumarsaravana001" /></p>
+### 📫 Reach me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsaravana001&show_icons=true&locale=en" alt="kumarsaravana001" /></p>
+- Email — [saravanakm46@gmail.com](mailto:saravanakm46@gmail.com)
+- LinkedIn — [saravanakumarmurali](https://linkedin.com/in/saravanakumarmurali)
+- GitHub — [@kumarsaravana001](https://github.com/kumarsaravana001)
+- Instagram — [@just_call_me_saravan](https://instagram.com/just_call_me_saravan)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsaravana001&" alt="kumarsaravana001" /></p>
+<sub>Building in public from India 🇮🇳 · open to opportunities</sub>
